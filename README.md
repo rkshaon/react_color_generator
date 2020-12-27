@@ -3,7 +3,7 @@
 Color value library: `https://github.com/noeldelgado/values.js`
 
 ## install
-###
+### npm
 `npm install values.js --save`
 
 ### Unpkg CDN
