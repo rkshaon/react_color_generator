@@ -2,11 +2,12 @@
 
 Color value library: `https://github.com/noeldelgado/values.js`
 
-## npm
+## install
+###
 `npm install values.js --save`
 
-## Unpkg CDN
+### Unpkg CDN
 `<script src="https://unpkg.com/values.js"></script>`
 
-## jsDelivr CDN
+### jsDelivr CDN
 `<script src="https://cdn.jsdelivr.net/npm/values.js"></script>`
